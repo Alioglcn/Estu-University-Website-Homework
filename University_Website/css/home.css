@@ -1,0 +1,17 @@
+a:link
+{
+    color: black;
+
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: red;
+
+}
+
+img:hover{
+    width: 400px;
+    height: 200px;
+}
